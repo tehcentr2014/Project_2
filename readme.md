@@ -47,7 +47,7 @@ The App was deployed to GitHub pages.
 The live link can be found here: https://github.com/tehcentr2014/Project_2
 
 ## Usage
-
+1. Copy App site link: https://tehcentr2014.github.io/Project_2/
 2. Open App site link in a web browser.
 3. Enter text in the "Enter text" text field.
 4. Select the source and target languages.
