@@ -2,7 +2,7 @@
 
 This is a JavaScript Translation App with Text to Speach Option that allows users to translate text from one language to another, listen to translations, and listen to the original text sentence by sentence. It utilizes the MyMemory Translation API for translations and the Web Speech API for text-to-speech functionality.
 
-![Responsice Mockup] https://github.com/tehcentr2014/Project_2/blob/main/media/translator_app_mockup.JPG
+![Responsice Mockup] (https://github.com/tehcentr2014/Project_2/blob/main/media/translator_app_mockup.JPG)
 
 ## Functionality
 
@@ -59,6 +59,7 @@ The live link can be found here: https://github.com/tehcentr2014/Project_2
 
 - MyMemory Translation API: Used for text translation.
 - Web Speech API: Used for text-to-speech functionality.
+
 Sources used:
 https://mymemory.translated.net/doc/
 https://dvcs.w3.org/hg/speech-api/raw-file/tip/webspeechapi
