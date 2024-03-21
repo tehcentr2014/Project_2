@@ -6,6 +6,7 @@ icons = document.querySelectorAll(".row i");
 translateBtn = document.querySelector("button"),
 readSentenceBtn = document.createElement("button");
 
+// The function exchanges the values between the 'from' and 'to' text fields and their respective select tags
 selectTag.forEach((tag, id) => {
     for (let country_code in countries) {
         let selected = id == 0 ? country_code == "en-GB" ? "selected" : "" : country_code == "de-DE" ? "selected" : "";
@@ -14,6 +15,7 @@ selectTag.forEach((tag, id) => {
     }
 });
 
+// The function exchanges the values between the 'from' and 'to' text fields and their respective select tags
 exchageIcon.addEventListener("click", () => {
     let tempText = fromText.value,
     tempLang = selectTag[0].value;
@@ -23,12 +25,14 @@ exchageIcon.addEventListener("click", () => {
     selectTag[1].value = tempLang;
 });
 
+// The function clears the 'to' text field when the 'from' text field is empty
 fromText.addEventListener("keyup", () => {
     if(!fromText.value) {
         toText.value = "";
     }
 });
 
+// The function translates the text from the 'from' text field to the 'to' text field when the translate button is clicked
 translateBtn.addEventListener("click", () => {
     let text = fromText.value.trim(),
     translateFrom = selectTag[0].value,
@@ -47,6 +51,7 @@ translateBtn.addEventListener("click", () => {
     });
 });
 
+// The function handles the click events on icons (copy and speech) for both 'from' and 'to' text fields
 icons.forEach(icon => {
     icon.addEventListener("click", ({target}) => {
         if(!fromText.value || !toText.value) return;
