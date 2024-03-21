@@ -34,11 +34,13 @@ The Translating Text function translates the text from the "Enter text" field to
 
 The Handling Click Events on Icons function handles the click events on icons (copy and speech) for both "Enter text" and "Translation" text fields. It allows users to copy text or listen to it using text-to-speech.
 
-![image](https://github.com/tehcentr2014/Project_2/assets/161617022/410bceb4-448b-4461-a242-0c023558c799)
+![image](https://github.com/tehcentr2014/Project_2/assets/161617022/d1df4e79-b409-4199-961c-c6bfec2a06d2)
 
 ### 6. Reading Text Sentence by Sentence
 
 The Reading Text Sentence by Sentence function reads the text sentence by sentence. It splits the text into sentences and reads each sentence followed by its translation.
+
+![image](https://github.com/tehcentr2014/Project_2/assets/161617022/410bceb4-448b-4461-a242-0c023558c799)
 
 ### 7. Translating a Sentence
 
