@@ -16,17 +16,25 @@ The Populating Select Tags function populates select tags with options for diffe
 
 The Exchanging Text and Languages function exchanges the values between the "Enter text" and "Translation" text fields and their respective select tags when the exchange icon is clicked.
 
+![image](https://github.com/tehcentr2014/Project_2/assets/161617022/bd600034-30d3-49bc-87aa-2d83bfc4438a)
+
 ### 3. Clearing "Translation" Text Field
 
 The Clearing "Translation" Text Field function clears the "Translation" text field when the "Enter text" field is empty.
+
+![image](https://github.com/tehcentr2014/Project_2/assets/161617022/127fec60-e68d-429a-a318-236364d7858c)
 
 ### 4. Translating Text
 
 The Translating Text function translates the text from the "Enter text" field to the "Translation" text field when the translate button is clicked. It utilizes the MyMemory Translation API for translation.
 
+![image](https://github.com/tehcentr2014/Project_2/assets/161617022/a147054b-c666-4eaa-b42a-06afa85b32d1)
+
 ### 5. Handling Click Events on Icons
 
 The Handling Click Events on Icons function handles the click events on icons (copy and speech) for both "Enter text" and "Translation" text fields. It allows users to copy text or listen to it using text-to-speech.
+
+![image](https://github.com/tehcentr2014/Project_2/assets/161617022/410bceb4-448b-4461-a242-0c023558c799)
 
 ### 6. Reading Text Sentence by Sentence
 
@@ -39,9 +47,9 @@ The Translating a Sentence function translates a given sentence. It utilizes the
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
-  - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator)
+  - No errors were returned when passing through the official [W3C validator]([https://validator.w3.org](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftehcentr2014.github.io%2FProject_2%2F))
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator]([https://jigsaw.w3.org/css-validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftehcentr2014.github.io%2FProject_2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=ru))
 
 ## Deployment
 
