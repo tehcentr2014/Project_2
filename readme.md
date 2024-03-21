@@ -77,6 +77,6 @@ https://mymemory.translated.net/doc/
 https://dvcs.w3.org/hg/speech-api/raw-file/tip/webspeechapi
 
 
-## License
+## Thank you
 
-This project is licensed under the [MIT License](LICENSE).
+Thank you for using the Translation App.
