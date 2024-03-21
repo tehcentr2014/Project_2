@@ -49,9 +49,9 @@ The Translating a Sentence function translates a given sentence. It utilizes the
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]([https://validator.w3.org](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftehcentr2014.github.io%2FProject_2%2F))
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftehcentr2014.github.io%2FProject_2%2F)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]([https://jigsaw.w3.org/css-validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftehcentr2014.github.io%2FProject_2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=ru))
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftehcentr2014.github.io%2FProject_2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=ru)
 
 ## Deployment
 
