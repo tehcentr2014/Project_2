@@ -10,6 +10,8 @@ This is a JavaScript Translation App with Text to Speach Option that allows user
 
 The Populating Select Tags function populates select tags with options for different countries and their corresponding language codes.
 
+![image](https://github.com/tehcentr2014/Project_2/assets/161617022/1b3509fe-496f-427c-9648-4ad02eeeb9bf)
+
 ### 2. Exchanging Text and Languages
 
 The Exchanging Text and Languages function exchanges the values between the "Enter text" and "Translation" text fields and their respective select tags when the exchange icon is clicked.
