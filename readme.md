@@ -67,6 +67,11 @@ The live link can be found here: https://github.com/tehcentr2014/Project_2
 6. Click the icons to copy text or listen to it using text-to-speech.
 7. Click the 'Listen sentence by sentence' button to listen to the text sentence by sentence.
 
+## Attribution
+
+The idea of ​​this application, as well as the implementation of some sections of code for educational purposes, was taken from the CodingNepal Internet resource: https://www.codingnepalweb.com/language-translator-app-html-css-javascript. Changes and new functions have been made to the application, which are displayed in this project - JavaScript Translation App with Text to Speach Option.
+
+
 ## Dependencies and Sources
 
 - MyMemory Translation API: Used for text translation.
